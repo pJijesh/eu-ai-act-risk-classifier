@@ -1,0 +1,16 @@
+{
+  "name": "eu-ai-act-risk-classifier",
+  "version": "1.0.0",
+  "description": "Interactive EU AI Act risk classifier: answer a short questionnaire and get the risk tier, obligations and key dates. Web app and CLI, no dependencies.",
+  "type": "module",
+  "bin": { "ai-act-classify": "bin/classify.js" },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "serve": "python3 -m http.server 8080",
+    "classify": "node bin/classify.js"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["eu-ai-act", "ai-governance", "compliance", "risk-classification", "iso-42001"],
+  "author": "Jijesh Puliyappottammal",
+  "license": "MIT"
+}
