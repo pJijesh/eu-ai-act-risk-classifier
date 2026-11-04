@@ -1,0 +1,9 @@
+{
+  "_name": "Customer support chatbot (provider)",
+  "role": "provider",
+  "euNexus": "yes",
+  "annexI": "no",
+  "annexIII": [],
+  "transparency": ["interaction", "synthetic"],
+  "gpai": "no"
+}

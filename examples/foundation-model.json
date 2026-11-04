@@ -1,0 +1,8 @@
+{
+  "_name": "Frontier language model (GPAI with systemic risk)",
+  "role": "provider",
+  "euNexus": "yes",
+  "annexI": "no",
+  "transparency": ["synthetic"],
+  "gpai": "systemic"
+}

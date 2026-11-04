@@ -1,0 +1,8 @@
+{
+  "_name": "Bank using a third-party credit scoring model (deployer)",
+  "role": "deployer",
+  "euNexus": "yes",
+  "annexI": "no",
+  "annexIII": ["5b"],
+  "profiling": "yes"
+}

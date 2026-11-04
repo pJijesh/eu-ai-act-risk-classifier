@@ -1,0 +1,7 @@
+{
+  "_name": "Citizen behaviour scoring (prohibited)",
+  "role": "provider",
+  "euNexus": "yes",
+  "prohibited": ["social_scoring"],
+  "annexI": "no"
+}

@@ -1,0 +1,10 @@
+{
+  "_name": "CV screening tool (provider)",
+  "role": "provider",
+  "euNexus": "yes",
+  "annexI": "no",
+  "annexIII": ["4a"],
+  "profiling": "yes",
+  "transparency": [],
+  "gpai": "no"
+}

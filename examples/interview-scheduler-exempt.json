@@ -1,0 +1,9 @@
+{
+  "_name": "Interview scheduling assistant (possible Art 6(3) exemption)",
+  "role": "provider",
+  "euNexus": "yes",
+  "annexI": "no",
+  "annexIII": ["4a"],
+  "profiling": "no",
+  "derogation": ["preparatory", "narrow"]
+}
