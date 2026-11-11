@@ -1,5 +1,7 @@
 # EU AI Act Risk Classifier
 
+![EU AI Act Risk Classifier: project banner](docs/images/banner.png)
+
 [![tests](https://github.com/pJijesh/eu-ai-act-risk-classifier/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/eu-ai-act-risk-classifier/actions/workflows/test.yml) [![Licence: MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE) ![Node 18+](https://img.shields.io/badge/node-18%2B-339933.svg) ![Dependencies: none](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
 
 **Problem:** Most organisations using AI cannot quickly tell which EU AI Act obligations apply to them, or when.
