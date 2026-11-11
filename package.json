@@ -11,6 +11,6 @@
   },
   "engines": { "node": ">=18" },
   "keywords": ["eu-ai-act", "ai-governance", "compliance", "risk-classification", "iso-42001"],
-  "author": "Jijesh Puliyappottammal",
+  "author": "Puliyappottammal Jijesh",
   "license": "MIT"
 }

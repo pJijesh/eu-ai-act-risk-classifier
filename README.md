@@ -117,4 +117,4 @@ Planned, not promised. Order and timing change with other work.
 
 MIT. See [LICENSE](LICENSE).
 
-Built by [Jijesh Puliyappottammal](https://www.linkedin.com/in/pjijesh). I also work on AI governance and write about it, including the *AI Governance Playbook*.
+Built by [Puliyappottammal Jijesh](https://www.linkedin.com/in/pjijesh). I also work on AI governance and write about it, including the *AI Governance Playbook*.
