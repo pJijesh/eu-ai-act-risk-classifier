@@ -105,6 +105,14 @@ Design choices worth knowing about:
 
 Settings, then Pages, then deploy from branch `main` and folder `/ (root)`. There is no build step.
 
+## Roadmap
+
+Planned, not promised. Order and timing change with other work.
+
+- **Next:** Recheck dates after 2 December 2026 and update rules; Add links to Commission guidance for each tier
+- **Then:** Add CSV export of the result; Add a worked example for general-purpose AI models
+- **Later:** Prepare text for translation; Release v1.1 with changelog
+
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
